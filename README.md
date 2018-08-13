@@ -1,10 +1,10 @@
 # neoforge
-> A NodeJS wrapper around Neo4j
+> A NodeJS wrapper around Neo4J.
 
 
 ### Overview
 
-I just started playing around with Neo4J last weekend, and I think it's awesome!
+I just started playing around with [Neo4J](https://www.neo4j.com) last weekend, and I think it's awesome!
 
 I wanted to get some practice writing a NodeJS API, and I thought this would be a fun experiment.
 
